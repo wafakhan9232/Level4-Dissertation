@@ -1,0 +1,126 @@
+# Timelog
+
+* Is doubling/mocking hiding bad code smells?
+* Wafa Khan Tareen
+* 2366702t
+* Derek Somerville
+
+## Week 1
+
+## 29 Sep 2021
+
+* *1 hour* Read the project guidance notes along with a brief research about the terminologies.
+* *1 hour* Filled out the Role Perception Scale and Understanding of the project document.
+* *1 hour* First meeting with supervisor.
+* *2 hour* Research on what code smells are.
+
+## 3 Oct 2021
+
+* *0.5 hour* Created presentation on weekly progress for the supervisor meeting.
+
+## Week 2
+
+## 4 Oct 2021
+
+* *0.5 hour* Weekly group meeting with the supervisor.
+
+## 7 Oct 2021
+
+* *0.5 hour* Created GitLab Repo for the project.
+* *1 hour* Created Meeting folder, Added meeting notes to this folder, Created issues.
+
+## 10 Oct 2021
+
+* *1.5 hour* Created a rough plan for the rest of Semester 1.
+* *2 hour* Completed research on code smells.
+
+## Week 3
+
+## 11 Oct 2021
+
+* *0.5 hour* Group meeting with supervisor.
+
+## 13 Oct 2021
+
+* *3 hour* Research on mocking and doubling.
+
+## 17 Oct 2021
+
+* *3.5 hour* Research on mocking/doubling - majority of information available as blog posts and articles.
+
+## Week 4
+
+## 19 Oct 2021
+
+* *1.5 hour* Trying different search terms to find academic sources related to mocking.
+* *2 hour* Reading few research papers related to the use of mocking in testing.
+* *0.5 hour* Setting up the wiki for the project.
+
+## 20 Oct 2021
+
+* *0.5 hour* Setting up the repo to match the example L4 project template.
+
+## 22 Oct 2021
+
+* *1 hour* Reading research papers on mocking.
+
+## 24 Oct 2021
+* *1 hour* Reading the paper "Empirical study on the usage ... testing".
+* *2.5 hour* Writing research summary.
+
+## Week 5
+
+## 25 Oct 2021
+* *1 hour* Group meeting with the supervisor.
+
+## 28 Oct 2021
+* *0.5 hour* Made the detailed summary shorter.
+* *1 hour* Reading a research paper.
+
+## 29 Oct 2021
+* *0.5 hour* Individual meeting with the supervisor.
+
+## Week 6
+
+## 1 Nov 2021
+* *0.5 hour* Group Meeting with the supervisor.
+
+## 3 Nov 2021
+* *2 hour* Research on test doubles of other test doubles.
+
+## 5 Nov 2021
+* *1.5 hour* Reading
+
+## Week 7
+
+## 08 Nov 2021
+* *0.5 hour* Meeting with supervisor.
+
+## 10 Nov 2021
+* *1.5 hour* looking at java interpreter for the purposes of script.
+
+## 14 Nov 2021
+* *1 hour* looking at python scripts that can be used to analyse git repositories.
+
+## Week 8
+
+## 15 Nov 2021
+* *1 hour* looking at how to get filter directories in python, the aim of looking at this before sampling is to choose between what language to use for the script.
+
+## Week 9
+
+## 22 Nov 2021
+* *0.5 hour* Meeting with supervisor.
+
+## Week 10
+
+## 29 Nov 2021
+* *1 hour* looking into how other researchers went about sampling repositories around test mocks.
+* *0.5 hour* Written pseudocode for the "sampling script".
+
+## 03 Dec 2021
+* *0.5 hour* Individual meeting with the supervisor.
+* *1 hour* Working on the script.
+
+## Week 11
+* *1.5 hour* The repo was not cloning on my local machine, soon realised this was due to the "." at the end of the path. Spent this time searching for a solution.
