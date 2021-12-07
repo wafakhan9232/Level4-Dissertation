@@ -123,4 +123,10 @@
 * *1 hour* Working on the script.
 
 ## Week 11
+## 06 Dec 2021
 * *1.5 hour* The repo was not cloning on my local machine, soon realised this was due to the "." at the end of the path. Spent this time searching for a solution.
+
+## 07 Dec 2021
+* *1.5 hour* Attended the project guidance session by Graham.
+* *1.5 hour* Watched the recording for the guidance session as had to leave to complete RMT groupwork.
+* *0.5 hour* Created a new repository for the project.
