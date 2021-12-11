@@ -1,0 +1,16 @@
+Pseudocode for the "Sample Script"
+
+Open the files with GitHub repositories
+Parse repository url - 
+    see if a test folder exists
+    if true
+        then look for the presence of test mocks
+        /pom.xml and look for the word "mock"
+        
+    else
+        discard repo and move on
+        
+
+
+Notes:
+When navigated to the test folder in a GitHub repo, the url is usually in the form https://github.com/[username]/[projectName]/tree/master/test
