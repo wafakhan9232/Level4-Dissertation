@@ -134,3 +134,6 @@
 ## 10 Dec 2021
 * *0.5 hour* Group meeting with supervisor.
 * *5 hour* Getting first draft of the sampling script to work, involved choosing variables to make constant, writing script and testing it.
+
+## 11 Dec 2021
+* *5 hour* Script working, testing. Realised there is another quick way to do it.
