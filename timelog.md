@@ -130,3 +130,7 @@
 * *1 hour* Attended the project guidance session by Graham.
 * *1 hour* Watched the recording for the guidance session as had to leave to complete RMT groupwork.
 * *0.5 hour* Created a new repository for the project.
+
+## 10 Dec 2021
+* *0.5 hour* Group meeting with supervisor.
+* *5 hour* Getting first draft of the sampling script to work, involved choosing variables to make constant, writing script and testing it.
