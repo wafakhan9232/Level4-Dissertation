@@ -3,7 +3,7 @@ from pathlib import Path
 
 # Script to shortlist repositories using test mocks.
 path = Path(__file__).parent
-with open(path /"data/repos_with_test.csv",encoding = "utf8") as file, open(path /"data/repos_with_mocks.csv", "a", encoding = "utf8") as out:
+with open(path /"data/repos_with_test.csv",encoding = "utf8") as file, open(path /"data/repos_with_mocks.csv", "a", encoding = "utf8", newline='') as out:
     csvreader = csv.reader(file)
     writer = csv.writer(out)
 
