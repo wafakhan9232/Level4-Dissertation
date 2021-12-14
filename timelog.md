@@ -141,3 +141,6 @@
 ## Week 12
 ## 13 Dec 2021
 * *4 hour* Trying different things for the sampling script - checking if project uses mocking from its pom.xml file. (Main hurdle was getting the file content from url and parsing it using python)
+
+## 14 Dec 2021
+* *1 hour* Tweaking the script to prevent blank lines being added, manually adding the header row to the resulting file.
