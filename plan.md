@@ -36,18 +36,26 @@
 ### **Week 12 [PROJECT WEEK]** Status report submitted.
 
 ## Winter break
-
+* Aim to at least complete half of the script.
 ## Spring Semester
-
-* **Week 13**
-* **Week 14**
-* **Week 15**
-* **Week 16**
-* **Week 17**
-* **Week 19**
-* **Week 20**
-* **Week 21**
-* **Week 22**
-* **Week 23 [TERM ENDS]**
-* **Week 24** Dissertation submission deadline and presentations.
+### **Week 13 (10/1/22)**
+* Complete the script and test it on few repositories.
+### **Week 14 (17/1/22)**
+* Run the script on sampled repositories and gather results.
+### **Week 15 (24/1/22)**
+* Evaluate the results - appropriate visualisations, stats.
+### **Week 16 (31/1/22)**
+* Extra data gathering? Final tweaks to the script.
+### **Week 17 (7/2/22)**
+* Create a how-to guide for mocking and its challenges.
+### **Week 18 (14/2/22)**
+* Complete how-to guide.
+### **Week 19 (21/2/22)**
+* Possible Maternity leave.
+### **Week 20 (28/2/22)**
+* Possible Maternity leave.
+### **Week 21 (7/3/22)**
+### **Week 22 (14/3/22)**
+* 2 weeks dedicated solely to the Dissertation.
+### **Week 23 [TERM ENDS] (21/3/22)** Dissertation submission deadline and presentations.
 
