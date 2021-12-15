@@ -147,3 +147,4 @@
 * *1.5 hour* Brainstorming how to implement the second script and searching for ways to parse java code using python.
 
 ## 15 Dec 2021
+* *1.5 hour* Researched javalang library and tested on a java source code file to see how it can be used to achieve the aims of the project.
