@@ -153,4 +153,10 @@
 ## 17 Dec 2021
 * *0.5 hour* Meeting with supervisor.
 
-## Week 13
+## Week 13 - Winter Break period
+
+## 03 Jan 2022
+* *1.5 hour* Read articles on mocking to better understand bad smells..
+
+## 04 Jan 2022
+* *1.5 hour* Tried to get the script working using javalang but ended up deciding not using it for now.
