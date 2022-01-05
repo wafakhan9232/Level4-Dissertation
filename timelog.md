@@ -161,3 +161,6 @@
 ## 04 Jan 2022
 * *1.5 hour* Tried to get the script working using javalang but ended up deciding not using it for now.
 * *1.5 hour* Modified the script to count the number of classes mocked in setup tests.
+
+## 05 Jan 2022
+* *2 hour* Working on the script.
