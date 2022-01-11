@@ -164,3 +164,7 @@
 
 ## 05 Jan 2022
 * *2 hour* Working on the script.
+
+## Week 14
+## 11 Jan 2022
+* *0.5 hour* Individual meeting with the supervisor.
