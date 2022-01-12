@@ -153,7 +153,7 @@
 ## 17 Dec 2021
 * *0.5 hour* Meeting with supervisor.
 
-## Week 13 - Winter Break period
+## Winter Break period
 
 ## 03 Jan 2022
 * *1.5 hour* Read articles on mocking to better understand bad smells..
@@ -165,6 +165,9 @@
 ## 05 Jan 2022
 * *2 hour* Working on the script.
 
-## Week 14
+## Week 13
 ## 11 Jan 2022
 * *0.5 hour* Individual meeting with the supervisor.
+
+## 12 Jan 2022
+* *0.5 hour* Trying to figure out how to run script on projects with subdirectories.
