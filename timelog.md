@@ -171,3 +171,7 @@
 
 ## 12 Jan 2022
 * *0.5 hour* Trying to figure out how to run script on projects with subdirectories.
+
+## Week 14
+## 18 Jan 2022
+* *0.5 hour* Group Meeting with supervisor.
