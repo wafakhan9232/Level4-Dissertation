@@ -175,3 +175,6 @@
 ## Week 14
 ## 18 Jan 2022
 * *0.5 hour* Group Meeting with supervisor.
+
+## 21 Jan 2022
+* *2 hour* Working on the script, experimenting with PyGithub to achieve the task.
