@@ -178,3 +178,6 @@
 
 ## 21 Jan 2022
 * *2 hour* Working on the script, experimenting with PyGithub to achieve the task.
+
+## 22 Jan 2022
+* *3 hour* Working on the script, experienced problems due to GitHub RateLimitExceeded Exception.
