@@ -181,3 +181,6 @@
 
 ## 22 Jan 2022
 * *3 hour* Working on the script, experienced problems due to GitHub RateLimitExceeded Exception.
+
+## 23 Jan 2022
+* *2.5 hour* Dealing with RateLimitExceeded exception and getting the script to work. Script now works when tested on single repo but takes too long to run.
