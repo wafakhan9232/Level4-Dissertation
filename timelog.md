@@ -184,3 +184,8 @@
 
 ## 23 Jan 2022
 * *2.5 hour* Dealing with RateLimitExceeded exception and getting the script to work. Script now works when tested on single repo but takes too long to run.
+
+## Week 15
+
+## 28 Jan 2022
+* *0.5 hour* Meeting with the supervisor.
