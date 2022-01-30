@@ -189,3 +189,6 @@
 
 ## 28 Jan 2022
 * *0.5 hour* Meeting with the supervisor.
+
+## 30 Jan 2022
+* *2.5 hour* Trying different things to get the test files from the sampled projects.
