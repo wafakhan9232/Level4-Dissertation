@@ -193,5 +193,11 @@
 ## 30 Jan 2022
 * *2.5 hour* Trying different things to get the test files from the sampled projects.
 
+## Week 16
+
 ## 31 Jan 2022
 * *3 hour* Working on code smell detector script.
+
+## 03 Feb 2022
+* *1.5 hour* Working on and refining the smell detector script.
+
