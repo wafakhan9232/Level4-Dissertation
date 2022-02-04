@@ -201,3 +201,6 @@
 ## 03 Feb 2022
 * *1.5 hour* Working on and refining the smell detector script.
 
+## 04 Feb 2022
+* *0.5 hour* Meeting with the supervisor.
+* *1 hour* Modifying the script to consider spies.
