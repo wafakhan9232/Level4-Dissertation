@@ -204,3 +204,39 @@
 ## 04 Feb 2022
 * *0.5 hour* Meeting with the supervisor.
 * *1 hour* Modifying the script to consider spies.
+
+## 06 Feb 2022
+* *2 hour* Testing the modified script.
+
+## Week 17
+
+## 08 Feb 2022
+* *0.5 hour* Group meeting with the supervisor.
+
+### Week 18 - Week 21 (10 Mar 2022)
+* Maternity leave
+
+## Week 21
+
+## 11 Mar 2022
+* *0.5 hour* Meeting with the supervisor.
+
+## 13 Mar 2022
+* *5 hour* Evaluating gathered results and creating necessary visualisations.
+
+## Week 22
+
+## 15 Mar 2022
+* *4.5 hour* Writing dissertation.
+
+## 17 Mar 2022
+* *3.5 hour* Writing dissertation.
+
+## Week 23
+
+## 23 Mar 2022
+* *0.5 hour* Meeting with the supervisor.
+* *5 hour* Writing dissertation.
+
+
+
