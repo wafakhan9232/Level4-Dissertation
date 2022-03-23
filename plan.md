@@ -49,13 +49,14 @@
 ### **Week 17 (7/2/22)**
 * Create a how-to guide for mocking and its challenges.
 ### **Week 18 (14/2/22)**
-* Complete how-to guide.
+* Maternity leave.
 ### **Week 19 (21/2/22)**
-* Possible Maternity leave.
+* Maternity leave.
 ### **Week 20 (28/2/22)**
-* Possible Maternity leave.
+* Maternity leave.
 ### **Week 21 (7/3/22)**
+* Maternity leave till 10th March.
 ### **Week 22 (14/3/22)**
-* 2 weeks dedicated solely to the Dissertation.
+* Working on the Dissertation.
 ### **Week 23 [TERM ENDS] (21/3/22)** Dissertation submission deadline and presentations.
 
