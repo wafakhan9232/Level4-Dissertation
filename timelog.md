@@ -238,5 +238,18 @@
 * *0.5 hour* Meeting with the supervisor.
 * *5 hour* Writing dissertation.
 
+## 24 Mar 2022
+* *6 hour* Working on the dissertation.
+
+## 26 Mar 2022
+* *4 hour* Working on the diss.
+
+## Week 24
+
+## 28 Mar 2022
+* *5 hour* Working on the diss.
+
+
+
 
 
