@@ -249,6 +249,8 @@
 ## 28 Mar 2022
 * *5 hour* Working on the diss.
 
+## 29 Mar 2022 to 9 Apr 2022
+* *45 hour* Working on the dissertation
 
 
 
